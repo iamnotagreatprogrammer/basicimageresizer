@@ -9,7 +9,7 @@ The features it currently contains are
 
 Dependencies
 
--Tkinter - for GUI
+- Tkinter - for GUI
 - Pillow - Image Library (performs the actual resizing of the files).
 - OS - used for working with file directories and file paths (to select and output files).
 
